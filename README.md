@@ -1,3 +1,5 @@
+## [page](https://lietzsche.github.io/memo/)
+
 ## My Memo
 
 Hugo Book 테마 기반의 메모/문서 사이트입니다.
