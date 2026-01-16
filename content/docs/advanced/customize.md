@@ -1,9 +1,9 @@
-+++
-title = 'Ŀ���͸���¡'
+﻿+++
+title = '커스터마이징'
 weight = 1
 +++
 
-## �ΰ��� �ĺ���
+## 로고와 파비콘
 
 ```toml
 [params]
@@ -11,7 +11,7 @@ weight = 1
   BookFavicon = 'favicon.png'
 ```
 
-## �޴� ����
+## 메뉴 숨김
 
 ```toml
 +++

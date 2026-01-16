@@ -1,6 +1,6 @@
-+++
-title = '¹®¼­'
+ï»¿+++
+title = 'ë¬¸ì„œ'
 weight = 1
 +++
 
-ÀÌ ¹®¼­´Â Hugo Book Å×¸¶ ±âÁØÀÇ »ç¿ë¹ýÀ» Á¤¸®ÇÕ´Ï´Ù.
+ì´ ë¬¸ì„œëŠ” Hugo Book í…Œë§ˆ ê¸°ì¤€ì˜ ì‚¬ìš©ë²•ì„ ì •ë¦¬í•©ë‹ˆë‹¤.
