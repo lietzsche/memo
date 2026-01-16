@@ -1,4 +1,7 @@
 baseURL = "/"
 languageCode = "ko"
 title = 'My Memo'
-theme = "PaperMod"
+theme = "hugo-book"
+[params]
+  BookTheme = 'auto'
+  BookToC = true
