@@ -1,4 +1,4 @@
-[page](https://lietzsche.github.io/memo/)
+[go page](https://lietzsche.github.io/memo/)
 
 ## My Memo
 
