@@ -1,4 +1,4 @@
-baseURL = 'https://lietzsche.github.io/memo/'
+baseURL = "/"
 languageCode = "ko"
 title = 'My Memo'
 theme = "PaperMod"
