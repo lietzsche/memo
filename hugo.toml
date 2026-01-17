@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "ko"
-title = '파고(波高): 형태를 가지려다 이내 흩어지는.'
+title = '리뷰s'
 theme = "hugo-book"
 [params]
   BookTheme = 'auto'
